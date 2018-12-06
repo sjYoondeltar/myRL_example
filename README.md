@@ -5,6 +5,7 @@
 
 # Reference
 
-1. https://arxiv.org/abs/1806.06923
-2. https://github.com/reinforcement-learning-kr/distributional_rl
-3. https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+1. [IQN]https://arxiv.org/abs/1806.06923
+2. [HER]https://arxiv.org/abs/1707.01495
+3. https://github.com/reinforcement-learning-kr/distributional_rl
+4. https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
