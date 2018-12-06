@@ -1,6 +1,7 @@
-# IQN_example
+# RL_example
 
-Implicit quantile network for GYM cartpole and other RL problem
+- Implicit quantile network for GYM cartpole and other RL problem
+- Hindsight experiance replay for the 2d arm
 
 # Reference
 
